@@ -1,8 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Jihoon%20Han&fontSize=50&desc=Humanities%20Engineering&animation=fadeIn&DescSize=40&descAlignY=65)
 
 
-
-  <p align="center">Inha University, Republic of Korea</p>
+  <p align="center">Department of Computer Engineering, Inha University, Republic of Korea</p>
+  <p align="center">Department of Culture Contents & Management, Inha University, Republic of Korea</p>
+  
+  
   
 
 
