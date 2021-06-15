@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![gns0304's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/gns0304/github-readme-stats)
+[![gns0304's GitHub stats](https://github-readme-stats.vercel.app/api?username=gns0304)](https://github.com/gns0304/github-readme-stats)
 
 <!--
 **gns0304/gns0304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
