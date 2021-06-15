@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Jihoon%20Han&fontSize=50&desc=한지훈&animation=fadeIn&DescSize=40&descAlignY=100)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Jihoon%20Han&fontSize=50&desc=한지훈&animation=fadeIn&DescSize=40&descAlignY=70)
 
 
 [![gns0304's GitHub stats](https://github-readme-stats.vercel.app/api?username=gns0304&count_private=true&show_icons=true&theme=default)](https://github.com/gns0304/github-readme-stats)
